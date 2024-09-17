@@ -1,0 +1,1 @@
+Important: Database access information (such as server name, username, and password) is in the db.php file. Depending on where you access the files from, you may need to change the boolean variable at_school on or off.
